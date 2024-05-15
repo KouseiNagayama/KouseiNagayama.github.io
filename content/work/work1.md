@@ -4,7 +4,7 @@ draft = false
 image = "img/portfolio/soccer_robot.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "サッカーロボット"
-weight = 1
+weight = 10
 +++
 
 {{< figure src="/img/portfolio/soccer_robot.jpg" class="center" width="700" height="500" >}}
