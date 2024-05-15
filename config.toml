@@ -1,4 +1,4 @@
-baseurl = "https://KouseiNagayama.github.io"
+baseurl = "https://kouseinagayama.github.io"
 publishDir = "docs"
 title = "Kousei Nagayama"
 theme = "hugo-creative-portfolio-theme"
