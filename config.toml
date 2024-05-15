@@ -67,5 +67,3 @@ googleAnalytics = ""
 
   [markup.goldmark.renderer]
     unsafe = true
-
-  disablePathToLower = true
