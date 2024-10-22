@@ -4,7 +4,7 @@ title = "巨大ケルビンの発電機"
 draft = false
 image = "img/portfolio/kelvin.jpg"
 showonlyimage = false
-weight = 11
+weight = 12
 +++
 
 {{< figure src="/img/portfolio/kelvin.jpg" class="center" width="700" height="500" >}}
